@@ -1,4 +1,4 @@
-# ⚡ energy-consumption-mlp: London Electrical Consumption Predictor
+# ⚡ London Electrical Consumption Predictor using Deep ResNet-MLP
 
 A data science project designed to predict the daily total electrical consumption of customers in each London borough. 
 
